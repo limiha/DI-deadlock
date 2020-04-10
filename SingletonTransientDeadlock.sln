@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonTransientDeadlockWeb", "SingletonTransientDeadlockWeb\SingletonTransientDeadlockWeb.csproj", "{C7491651-B24F-4541-BEB9-86FBC32818AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonTransientDeadlockWebClient", "SingletonTransientDeadlockWebClient\SingletonTransientDeadlockWebClient.csproj", "{689A652B-324C-4B09-8E8B-A89A2786E5E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonTransientDeadlockTest", "SingletonTransientDeadlockTest\SingletonTransientDeadlockTest.csproj", "{CD5CD3E4-F5C0-4E3E-B747-A64B043B341C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{C7491651-B24F-4541-BEB9-86FBC32818AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7491651-B24F-4541-BEB9-86FBC32818AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7491651-B24F-4541-BEB9-86FBC32818AA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{689A652B-324C-4B09-8E8B-A89A2786E5E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{689A652B-324C-4B09-8E8B-A89A2786E5E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{689A652B-324C-4B09-8E8B-A89A2786E5E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{689A652B-324C-4B09-8E8B-A89A2786E5E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD5CD3E4-F5C0-4E3E-B747-A64B043B341C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5CD3E4-F5C0-4E3E-B747-A64B043B341C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5CD3E4-F5C0-4E3E-B747-A64B043B341C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5CD3E4-F5C0-4E3E-B747-A64B043B341C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
